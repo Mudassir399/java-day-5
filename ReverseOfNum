@@ -1,6 +1,4 @@
-
 import java.util.*;
-
 class ReverseOfnum
 {
 	public static void main (String[] args) 
