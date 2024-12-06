@@ -9,7 +9,7 @@ class PatternChar
 	    {
 		    for(int j=i;j<=n;j++)
 		    {
-			    System.out.println((char)(64+j)+" ");
+			    System.out.print((char)(64+j)+" ");
 		    }
 		    System.out.println();
         }
